@@ -1,2 +1,2 @@
 # OmniSupervised-ConvNet
-Omni-Supervised ConvNet for Robust Semantic Segmentation
+Omni-Supervised Efficient ConvNet for Robust Semantic Segmentation
