@@ -3,9 +3,10 @@ Omni-Supervised Efficient ConvNet for Robust Semantic Segmentation
 
 ## Gardens Point Dataset with Pixel-Wise Traversable Area Annotations
 
-[**GoogleDrive**](https://drive.google.com/file/d/1YDphc00nIeC9-x-JbiQ-gQ2cFv2LFiD0/view?usp=sharing), 600 images
-
-[**BaiduYun**](https://pan.baidu.com/s/19cg1yWsvNuUNOgAa9kf4uQ), 600 Images
+### GoogleDrive
+[**Download Link**](https://drive.google.com/file/d/1YDphc00nIeC9-x-JbiQ-gQ2cFv2LFiD0/view?usp=sharing), 600 images
+### BaiduYun
+[**Download Link**](https://pan.baidu.com/s/19cg1yWsvNuUNOgAa9kf4uQ), 600 Images
 
 ## Publications
 If you use our dataset or code, please consider referencing any of the following papers:
