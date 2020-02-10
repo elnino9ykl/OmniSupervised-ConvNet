@@ -8,6 +8,8 @@ Omni-Supervised Efficient ConvNet for Robust Semantic Segmentation
 ### BaiduYun
 [**Download Link**](https://pan.baidu.com/s/19cg1yWsvNuUNOgAa9kf4uQ), 600 Images
 
+![Example segmentation](garden_traversability.jpg?raw=true "Example segmentation")
+
 ## Publications
 If you use our dataset or code, please consider referencing any of the following papers:
 
