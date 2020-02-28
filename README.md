@@ -10,6 +10,35 @@ Omni-Supervised Efficient ConvNet for Robust Semantic Segmentation
 
 ![Example segmentation](gardens_traversability.jpg?raw=true "Example segmentation")
 
+## Code Usage
+Training:
+```
+CUDA_VISIBLE_DEVICES=0,1,2,3
+python3 segment.py
+--basedir /home/kyang/Downloads/
+--num-epochs 200
+--batch-size 12
+--savedir /erfpsp
+--datasets 'MAP' 'IDD20K'
+--num-samples 18000
+--alpha 0
+--beta 0
+--model erfnet_pspnet
+```
+
+Evaluation:
+```
+python3 eval_color.py
+--datadir /home/kyang/Downloads/Mapillary/
+--subset val
+--loadDir ./trained/
+--loadWeights model_best.pth
+--loadModel erfnet_pspnet.py
+--basedir /home/kyang/Downloads/
+--datasets 'MAP' 'IDD20K'
+```
+
+
 ## Publications
 If you use our dataset or code, please consider referencing any of the following papers:
 
