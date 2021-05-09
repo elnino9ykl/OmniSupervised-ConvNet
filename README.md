@@ -42,6 +42,11 @@ python3 eval_color.py
 ## Publications
 If you use our dataset or code, please consider referencing any of the following papers:
 
+**In Defense of Multi-Source Omni-Supervised Efficient ConvNet for Robust Semantic Segmentation in Heterogeneous Unseen Domains.**
+K. Yang, X. Hu, K. Wang, R. Stiefelhagen.
+In IEEE Intelligent Vehicles Symposium (**IV**), Las Vegas, NV, United States (Virtual), October 2020.
+[[**PDF**](http://www.yangkailun.com/publications/iv2020_omnisupervision_kailun.pdf)]
+
 **Unifying Terrain Awareness for the Visually Impaired through Real-Time Semantic Segmentation.**
 K. Yang, K. Wang, L.M. Bergasa, E. Romera, W. Hu, D. Sun, J. Sun, R. Cheng, T. Chen, E. López.
 Sensors, May 2018.
